@@ -4,7 +4,7 @@
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](LICENSE)
 
 <p align="center">
-  <img src="https://github.com/chaineypung/Deep-Block-Zoo/picture.png" />
+  <img src="./picture.png" />
 </p>
 
 Some plug-and-play network modules.
