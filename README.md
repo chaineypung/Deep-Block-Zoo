@@ -4,7 +4,7 @@
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](LICENSE)
 
 <p align="center">
-<img src="./picture.png" alt="drawing" width="60%" height="60%"/>
+<img src="./picture.png" alt="drawing" width="90%" height="50%"/>
     <h4 align="center"> </h4>
 </p>
 
