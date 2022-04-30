@@ -4,7 +4,8 @@
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](LICENSE)
 
 <p align="center">
-  <img src="./picture.png" />
+<img src="./picture.png" alt="drawing" width="90%" height="90%"/>
+    <h4 align="center"> </h4>
 </p>
 
 Some plug-and-play network modules.
