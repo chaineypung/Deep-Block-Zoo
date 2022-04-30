@@ -3,6 +3,10 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/open_model_zoo/community)
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](LICENSE)
 
+<p align="center">
+  <img src="https://github.com/chaineypung/Deep-Block-Zoo/picture.png" />
+</p>
+
 Some plug-and-play network modules.
 
 These modules are separated from the classical network and they can help you improve the upper limit of your model.
